@@ -1,0 +1,39 @@
+header{
+	width: 100%;
+	height: 100px;
+}
+.logo{
+	width: 200px;
+	margin:15px;
+	float: left;
+	vertical-align: middle;
+
+}
+.navbar-li{
+	display: inline-block;
+	margin-right: 10px;
+ 	color: #3D58A6;
+}
+.navbar-li:first-child{
+	color: #EE4036;
+}
+
+.navbar-a{
+	font-size: 40px;
+
+}
+.navbar-ul{
+	float: right;
+	vertical-align: middle;
+	line-height: 93px;
+}
+.imagebox{
+	background-color: #E6E6E6;
+	height: 520px;
+}
+.sectionimage{
+	max-width: 1170px;
+	width: 100%;
+	margin: 10px auto;
+
+}
